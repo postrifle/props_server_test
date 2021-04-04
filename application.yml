@@ -1,0 +1,5 @@
+my:
+ description: First Property
+ port: 8084
+sr:
+ test: Second Proretry
