@@ -3,3 +3,4 @@ my:
  port: 8084
 sr:
  test: Second Proretry
+api.key: 21f083ba9b6072a0e2090b581f3c73a5
